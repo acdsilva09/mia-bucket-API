@@ -9,10 +9,10 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.andre</groupId>
-    <artifactId>media-storage</artifactId>
+    <groupId>org.mia</groupId>
+    <artifactId>mia-bucket-API</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>media-storage</name>
+    <name>mia-bucket-API</name>
     <description>API para upload e armazenamento de mídia no OCI</description>
 
     <properties>
